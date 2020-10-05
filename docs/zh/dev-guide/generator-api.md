@@ -139,7 +139,7 @@
 - **参数**
   
   - `{} msg` - 生成器完成后输出的字符串或值。
-- `{('log'|'info'|'done'|'warn'|'error')} [type='log']` - 信息类型.
+  - `{('log'|'info'|'done'|'warn'|'error')} [type='log']` - 信息类型.
   
 - **用途**:
 
