@@ -4,7 +4,7 @@
 
 类型：`string`
 
-调用插件的**全局**`@vue/cli`版本号。
+调用插件时的**全局**`@vue/cli`版本号。
 
 
 ## assertCliVersion
